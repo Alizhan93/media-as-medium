@@ -1,0 +1,95 @@
+
+.body{
+    margin: 20px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.head{
+    margin-top: 24px;
+}
+
+.logo{
+    font-size: 18px;
+    font-family: 'Kanit';
+    font-style: normal;
+}
+
+.hello{
+    font-size: 48px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    
+}
+
+.styles {
+    margin: 4% 6%
+}
+
+.text {
+    font-family: 'Inter';
+}
+
+.author{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-family: 'Inter';
+}
+
+.button{
+    background: #FFFBFE;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    margin-top: 12%;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 4%
+}
+
+.subtitle{
+    margin: 6%;
+    font-size: 28px;
+} 
+
+.summary{
+    margin-bottom: 10%;
+    font-size: 16px;
+}
+
+.list{
+    margin: 4% 6%;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 4% 6%;
+}
+
+.avatar{
+    width: 120px;
+    height: 120px;
+}
+
+.about{
+    font-size: 18px;
+}
+
+.textart{
+    width: 693px;
+}
+
+.details p{
+    margin: 2%;
+}
